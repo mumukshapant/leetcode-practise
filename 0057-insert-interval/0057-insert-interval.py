@@ -5,20 +5,21 @@ class Solution(object):
         :type newInterval: List[int]
         :rtype: List[List[int]]
         """
-        nums.append(newInterval)
-        nums.sort(key= lambda x : x[0])
-        print(nums)
+        res=[] 
+        for i in range(len(nums)): 
+            #CASE 1 : 
+            if newInterval[1] <nums[i][0] : 
+                res.append(newInterval)
+                return res+nums[i:]
+            elif newInterval[0]> nums[i][1]: 
+                res.append(nums[i])
+            else: #merge
+                newInterval = [
+                    min(newInterval[0],nums[i][0]), 
+                    max(newInterval[1], nums[i][1])
+                    ]
+        res.append(newInterval)
+        return res
 
-        #now add merge interval code 
-        res=[]
-        prev= nums[0]
 
-        for n in nums[1:] :
-            if prev[1]>=n[0]: #merge
-                prev[1] = max(prev[1],n[1]) # [1,6]
-            else: 
-                res.append(prev)
-                prev=n
-
-        res.append(prev)
-        return res 
+                   

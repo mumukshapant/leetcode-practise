@@ -6,15 +6,17 @@ class Solution(object):
         :type speed: List[int]
         :rtype: int
         """
-
+        if len(pos)==1: 
+            return 1 
+            
         pair = [(p,s) for p,s in zip(pos, sp)]
         pair.sort(reverse=True)
 
-        prevtime = (t-pair[0][0])/pair[0][1]
+        prevtime = float(t-pair[0][0])/pair[0][1]
         fleet=1 
 
         for i in range(1,len(pair)): 
-            currtime = (t-pair[i][0])/pair[i][1]
+            currtime = float(t-pair[i][0])/pair[i][1]
             if currtime>prevtime : 
                 fleet+=1
                 prevtime= currtime 

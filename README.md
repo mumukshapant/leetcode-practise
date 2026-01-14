@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0268-missing-number) |
+| [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/mumukshapant/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/mumukshapant/leetcode-practise/tree/master/0289-game-of-life) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/mumukshapant/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
+| [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0392-is-subsequence) |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |

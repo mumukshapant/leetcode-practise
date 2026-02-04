@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/mumukshapant/leetcode-practise/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mumukshapant/leetcode-practise/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mumukshapant/leetcode-practise/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mumukshapant/leetcode-practise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/mumukshapant/leetcode-practise/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
 | [1511-count-number-of-teams](https://github.com/mumukshapant/leetcode-practise/tree/master/1511-count-number-of-teams) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -831,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/mumukshapant/leetcode-practise/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/mumukshapant/leetcode-practise/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mumukshapant/leetcode-practise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mumukshapant/leetcode-practise/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/mumukshapant/leetcode-practise/tree/master/2128-reverse-prefix-of-word) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/2573-remove-nodes-from-linked-list) |
@@ -863,6 +865,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/mumukshapant/leetcode-practise/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mumukshapant/leetcode-practise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/2573-remove-nodes-from-linked-list) |
 ## Geometry
 |  |

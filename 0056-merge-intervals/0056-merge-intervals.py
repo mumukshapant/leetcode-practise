@@ -4,7 +4,8 @@ class Solution(object):
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
         """
-        #sort in increasing order of first digit 
+        #sort in increasing order of last digit 
+        nums.sort(key=lambda x: x[0])
        
         res=[]
         prev= nums[0]
@@ -15,6 +16,6 @@ class Solution(object):
             else: 
                 res.append(prev)
                 prev=n
-
+                
         res.append(prev)
         return res 

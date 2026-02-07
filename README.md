@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/mumukshapant/leetcode-practise/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
+| [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mumukshapant/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
+| [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mumukshapant/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
@@ -951,4 +953,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/mumukshapant/leetcode-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mumukshapant/leetcode-practise/tree/master/0200-number-of-islands) |
+| [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
 <!---LeetCode Topics End-->

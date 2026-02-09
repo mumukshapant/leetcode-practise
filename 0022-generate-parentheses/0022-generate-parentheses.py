@@ -25,3 +25,13 @@ class Solution(object):
 
         helper(0,0)
         return res
+
+        '''
+        why does 
+        `res.append(curr[:])` not work ?
+        
+        - curr is a list (like ['(', ')', '('])
+            "".join(curr) creates a new string from the list at that moment (like "()(")
+
+
+        '''

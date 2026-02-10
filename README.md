@@ -957,4 +957,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/mumukshapant/leetcode-practise/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/mumukshapant/leetcode-practise/tree/master/0200-number-of-islands) |
 | [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
+| [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->

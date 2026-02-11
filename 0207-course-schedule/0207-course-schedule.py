@@ -5,33 +5,34 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-
-        adj = defaultdict(list) #defaultdict automatically creates a default value for any key 
         
+        adj = defaultdict(list)
+        visited = set()
+
         for course,pre in prerequisites: 
             adj[course].append(pre)
         
-        visited=set()
-        
-        def dfs(course): 
+        def dfs(course) :
+
             if course in visited: 
                 return False
             
-            if adj[course]==[]: #course can be taken, no pre requisite 
+            if adj[course]== [] : 
                 return True 
             
             visited.add(course)
-            for pre in adj[course]: 
-                if not dfs(pre): #dfs returns False
-                    return False 
+
+            for p in adj[course]: 
+                if dfs(p) ==False : 
+                    return False
             
             visited.remove(course)
-            adj[course]=[]
-            return True 
+            adj[course]=[] # memoization -- to avoid repeated work. Eg  1 - [0,3]   2- [3,5]
+            # We would explore 3 two times. 
 
+            return True 
+        
         for c in range(n): 
-            if not dfs(c): 
+           if not dfs(c): 
                 return False
         return True
-
-        

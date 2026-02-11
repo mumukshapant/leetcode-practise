@@ -4,30 +4,32 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        lps= ""
-        if len(s)==1: 
-            return s
-        
-        #odd
-        for i in range (0,len(s)): 
-            low=i
-            high=i
 
-            while low>=0 and high<len(s) and s[low]==s[high]: 
-                low-=1
-                high+=1
-            res= s[ low +1 : high]
-            if(len(res) > len(lps)): 
-                lps= res
+        l,r =0 , 0 
+        n = len(s)
+        res=[]
 
-        for i in range(0,len(s)): 
-            low=i
-            high=i+1
-            while low>=0 and high<len(s) and s[low]==s[high]: 
-                low-=1
-                high+=1
-            res= s[ low + 1: high]
-            if len(res)> len(lps): 
-                lps= res
+        for i in range (n): 
+            l=i
+            r=i+1
+
+            while l>=0 and r<n and s[l]==s[r]:
+
+                if len(s[l:r+1]) > len(res):
+                    res = s[l:r+1]
+                l-=1
+                r+=1
+            
+
+            l=i
+            r=i
+            while l>=0 and r<n and s[l]==s[r]: 
+                if len(s[l:r+1])> len(res): 
+                    res = s[l:r+1]
+                l-=1
+                r+=1
+        return res
+
+
         
-        return lps
+        

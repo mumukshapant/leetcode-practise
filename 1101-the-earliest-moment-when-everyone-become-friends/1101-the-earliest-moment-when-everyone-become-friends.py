@@ -15,9 +15,6 @@ class Solution(object):
             adj[i] = {i}
 
         for t,a,b in logs: 
-            if adj[a] is adj[b]:
-                continue
-
             union_set = adj[a].union(adj[b]) # using union because when a is connected to b, it means we get all friends of b also. 
 
             # Update ALL people in merged group to point to same set

@@ -4,19 +4,22 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        # time & space : O(N), O(N)
-        # freq= Counter(nums)
+        #using property : a^a = 0 && a^0=a
+        # XOR is : 
 
-        # for i in freq: #i represents the key
-        #     print(i)
-        #     if freq[i]==1 :  #value 
-        #         return i
+        # 0 0  |  0
+        # 1 0  |  1
+        # 0 1  |  1
+        # 1 1  |  0 
 
-        # XOR 
-        # space : O(1), time O(N)
-        
         xor=0
-        for i in nums: 
-            xor=xor^i
-        return xor
+        # 7,7,1
+
+        # 0111
+        # 0111
+        # 0001
+
+        for n in nums: 
+            xor = xor^n
         
+        return xor 

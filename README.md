@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1127-last-stone-weight](https://github.com/mumukshapant/leetcode-practise/tree/master/1127-last-stone-weight) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mumukshapant/leetcode-practise/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/mumukshapant/leetcode-practise/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/mumukshapant/leetcode-practise/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/mumukshapant/leetcode-practise/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1491-number-of-times-binary-string-is-prefix-aligned](https://github.com/mumukshapant/leetcode-practise/tree/master/1491-number-of-times-binary-string-is-prefix-aligned) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0967-minimum-falling-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/mumukshapant/leetcode-practise/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/mumukshapant/leetcode-practise/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mumukshapant/leetcode-practise/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/mumukshapant/leetcode-practise/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/mumukshapant/leetcode-practise/tree/master/1428-leftmost-column-with-at-least-a-one) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/mumukshapant/leetcode-practise/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1646-kth-missing-positive-number) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/mumukshapant/leetcode-practise/tree/master/1851-minimum-interval-to-include-each-query) |
@@ -979,4 +982,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
+## Interactive
+|  |
+| ------- |
+| [1428-leftmost-column-with-at-least-a-one](https://github.com/mumukshapant/leetcode-practise/tree/master/1428-leftmost-column-with-at-least-a-one) |
 <!---LeetCode Topics End-->

@@ -4,38 +4,48 @@ class Solution(object):
         :type grid: List[List[int]]
         :rtype: int
         """
-        m, n = len(g), len(g[0])
-
         directions = [[1,0],[0,1],[-1,0],[0,-1]]
+        t=0 
+        m,n=len(g),len(g[0])
+        q=deque()
+        fresh=0
 
-        q= deque()
-        t,fresh=0,0
 
         for r in range(m): 
             for c in range(n): 
-                if g[r][c]==2: #rotten orange
+                if g[r][c]==2 : #rotten 
                     q.append((r,c))
-                if g[r][c]==1: #fresh
+                elif g[r][c]==1: 
                     fresh+=1
-
-        while ((q) and (fresh>0)) : 
-            for _ in range(len(q)):  # Time doesn’t pass per orange.Time passes per wave of infection.
-            
+        
+        if fresh==0 :
+            return 0 
+        
+    
+        while q and fresh>0 : 
+            for _ in range(len(q)): 
                 r,c = q.popleft()
-
-                for dr,dc in directions: 
+                for dr, dc in directions: 
                     newrow= dr+r
-                    newcol = dc+c
+                    newcol= dc+c 
 
-                    if newrow>=m or newcol>=n or newrow<0 or newcol<0 : 
+                    if newrow>=m or newcol>=n or newrow < 0 or newcol<0 or g[newrow][newcol]!=1 : 
                         continue 
-                    if g[newrow][newcol]!=1: #not fresh
-                        continue
-
-                    g[newrow][newcol] = 2 #mark as rotten 
+                    
+                    g[newrow][newcol]=2 #mark rotten 
                     q.append((newrow, newcol))
-                    fresh -=1 # fresh becomes rotten , so ofcourse fresh count is reduced
+
+                    fresh-=1 
             t+=1
-        return t if fresh==0 else -1
+
+    
+        return t if fresh == 0 else -1
+
                 
+
+
+        
+
+
+            
         

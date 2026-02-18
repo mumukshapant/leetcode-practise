@@ -465,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mumukshapant/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/mumukshapant/leetcode-practise/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mumukshapant/leetcode-practise/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -693,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/mumukshapant/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
@@ -958,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Database
@@ -982,6 +986,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Interactive
 |  |

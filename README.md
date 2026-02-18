@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mumukshapant/leetcode-practise/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/mumukshapant/leetcode-practise/tree/master/2502-sort-the-people) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/mumukshapant/leetcode-practise/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2561-rearranging-fruits](https://github.com/mumukshapant/leetcode-practise/tree/master/2561-rearranging-fruits) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/mumukshapant/leetcode-practise/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mumukshapant/leetcode-practise/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mumukshapant/leetcode-practise/tree/master/3081-minimum-array-length-after-pair-removals) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/mumukshapant/leetcode-practise/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mumukshapant/leetcode-practise/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/mumukshapant/leetcode-practise/tree/master/2502-sort-the-people) |
+| [2561-rearranging-fruits](https://github.com/mumukshapant/leetcode-practise/tree/master/2561-rearranging-fruits) |
 ## Math
 |  |
 | ------- |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-number-in-infinite-set](https://github.com/mumukshapant/leetcode-practise/tree/master/2413-smallest-number-in-infinite-set) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mumukshapant/leetcode-practise/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2502-sort-the-people](https://github.com/mumukshapant/leetcode-practise/tree/master/2502-sort-the-people) |
+| [2561-rearranging-fruits](https://github.com/mumukshapant/leetcode-practise/tree/master/2561-rearranging-fruits) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mumukshapant/leetcode-practise/tree/master/3081-minimum-array-length-after-pair-removals) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/mumukshapant/leetcode-practise/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/mumukshapant/leetcode-practise/tree/master/3227-find-missing-and-repeated-values) |
@@ -775,6 +778,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/2032-largest-odd-number-in-string) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/mumukshapant/leetcode-practise/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mumukshapant/leetcode-practise/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2561-rearranging-fruits](https://github.com/mumukshapant/leetcode-practise/tree/master/2561-rearranging-fruits) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mumukshapant/leetcode-practise/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
 | [3081-minimum-array-length-after-pair-removals](https://github.com/mumukshapant/leetcode-practise/tree/master/3081-minimum-array-length-after-pair-removals) |
 ## Quickselect

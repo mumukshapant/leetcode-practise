@@ -4,25 +4,25 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        n= len(nums)
-        area=0 
-        
+        n=len(nums)
         l,r=0,n-1
+        leftmax,rightmax=nums[l],nums[r]
+        area=0
 
-        leftptr , rightptr = nums[l], nums[r]
 
         while l<r: 
-            if leftptr < rightptr : # jo chota hai, usko move karo 
-                l+=1
-                leftptr = max(nums[l] , leftptr)
-                area += leftptr-nums[l]
+            
+            if leftmax>rightmax: 
+                r-=1
+                rightmax= max(nums[r], rightmax)
+                area+=rightmax- nums[r]
                 
             else: 
-                r-=1
-                rightptr =max(nums[r], rightptr)
-                area+=rightptr - nums[r]
+                l+=1
+                leftmax = max(nums[l], leftmax) 
+                area+=leftmax-nums[l]
                 
+        
         return area
-
-
+                
 

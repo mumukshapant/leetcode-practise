@@ -4,29 +4,30 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[List[int]]
         """
-        n= len(nums)
+        n = len(nums)
+        visited= [False]*n 
         curr,res=[],[]
-
-        used=[False] * n  # used array 
         nums.sort()
 
-        def backtrack(): 
-            if len(curr)==n : 
+        def backtrack() : 
+            if len(curr)==n: 
                 res.append(curr[:])
                 return res
-            
-            for i in range(n):
-                if used[i]: 
-                    continue 
-                
-                if i>0 and nums[i]==nums[i-1] and not used[i-1]: 
+
+            for i in range(n): 
+                if visited[i]: 
                     continue
 
+                if i<n-1 and nums[i]==nums[i+1] and not visited[i+1]: 
+                    continue
+
+                visited[i] = True
                 curr.append(nums[i])
-                used[i]= True 
                 backtrack()
-                curr.pop()
-                used[i]= False
+                curr.pop() 
+                visited[i] = False
 
         backtrack()
         return res
+
+

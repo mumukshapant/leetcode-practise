@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0268-missing-number) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/mumukshapant/leetcode-practise/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0287-find-the-duplicate-number) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/mumukshapant/leetcode-practise/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/mumukshapant/leetcode-practise/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0344-reverse-string) |
@@ -661,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mumukshapant/leetcode-practise/tree/master/0417-pacific-atlantic-water-flow) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0226-invert-binary-tree) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mumukshapant/leetcode-practise/tree/master/0417-pacific-atlantic-water-flow) |
@@ -967,6 +971,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0210-course-schedule-ii) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Shortest Path
 |  |
@@ -995,6 +1000,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
+| [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |

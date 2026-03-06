@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/mumukshapant/leetcode-practise/tree/master/1511-count-number-of-teams) |
 | [2571-minimum-operations-to-reduce-an-integer-to-0](https://github.com/mumukshapant/leetcode-practise/tree/master/2571-minimum-operations-to-reduce-an-integer-to-0) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Hash Table
 |  |
 | ------- |
@@ -685,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/2121-find-if-path-exists-in-graph) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -716,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/2121-find-if-path-exists-in-graph) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union Find
 |  |
 | ------- |
@@ -1008,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Interactive
 |  |
 | ------- |

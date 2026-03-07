@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mumukshapant/leetcode-practise/tree/master/0792-binary-search) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
 | [0853-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0853-car-fleet) |
+| [0875-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0907-koko-eating-bananas) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/mumukshapant/leetcode-practise/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0907-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mumukshapant/leetcode-practise/tree/master/1056-capacity-to-ship-packages-within-d-days) |

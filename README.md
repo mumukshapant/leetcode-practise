@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0967-minimum-falling-path-sum) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0556-next-greater-element-iii) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1086-divisor-game](https://github.com/mumukshapant/leetcode-practise/tree/master/1086-divisor-game) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/mumukshapant/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mumukshapant/leetcode-practise/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
@@ -479,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/mumukshapant/leetcode-practise/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -801,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mumukshapant/leetcode-practise/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
@@ -917,6 +923,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/mumukshapant/leetcode-practise/tree/master/0223-rectangle-area) |
+| [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 ## Combinatorics
 |  |

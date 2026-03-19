@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mumukshapant/leetcode-practise/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
 | [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
+| [0312-burst-balloons](https://github.com/mumukshapant/leetcode-practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/mumukshapant/leetcode-practise/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0300-longest-increasing-subsequence) |
+| [0312-burst-balloons](https://github.com/mumukshapant/leetcode-practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0337-house-robber-iii) |

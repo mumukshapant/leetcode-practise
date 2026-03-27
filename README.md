@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/mumukshapant/leetcode-practise/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0252-meeting-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0268-missing-number) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/mumukshapant/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/mumukshapant/leetcode-practise/tree/master/0412-fizz-buzz) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mumukshapant/leetcode-practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0437-path-sum-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0437-path-sum-iii) |
@@ -1041,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/mumukshapant/leetcode-practise/tree/master/0207-course-schedule) |
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -1049,4 +1055,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1428-leftmost-column-with-at-least-a-one](https://github.com/mumukshapant/leetcode-practise/tree/master/1428-leftmost-column-with-at-least-a-one) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->

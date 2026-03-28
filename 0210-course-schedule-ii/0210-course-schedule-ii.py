@@ -5,44 +5,36 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: List[int]
         """
-        
-        
+
         adj = defaultdict(list)
+        for c, p in prerequisites: 
+            adj[c].append(p)
+        
         res=[]
+        cycle = set()   # current path (cycle detection)
+        visited = set()    # already processed
 
-        for course,p in prerequisites: 
-            adj[course].append(p)
-        cycle = set()
-        visited = set()
-        
         def dfs(course): 
-            '''
-            A course has 3 possible states : 
-            - visited   : course has been added to output
-            - visiting  : course not added to output, but added to cycle
-            - unvisited : course not added to output, or cycle
-            '''
         
-
-            if course in cycle: 
+            if course in cycle: # cycle detected
                 return False
-            if course in visited: 
+            
+            if course in visited: # already processed
                 return True
+             
             cycle.add(course)
 
-            for p in adj[course]: 
-                if dfs(p)==False: 
-                    return False
-            # if course has no prerequistse, []
+            for pre in adj[course]: 
+                if not dfs(pre): 
+                    return False 
+
             cycle.remove(course)
             visited.add(course)
             res.append(course)
 
-            return True
-
-        
-
+            return True 
+            
         for c in range(n): 
-            if dfs(c)==False: 
-                return []
-        return res
+            if not dfs(c): 
+                return [] 
+        return res 

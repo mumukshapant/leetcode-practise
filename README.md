@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
+| [0359-logger-rate-limiter](https://github.com/mumukshapant/leetcode-practise/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mumukshapant/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0525-contiguous-array) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
+| [0359-logger-rate-limiter](https://github.com/mumukshapant/leetcode-practise/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
@@ -1007,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0359-logger-rate-limiter](https://github.com/mumukshapant/leetcode-practise/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Topological Sort

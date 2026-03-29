@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
+| [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -672,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
+| [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mumukshapant/leetcode-practise/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |

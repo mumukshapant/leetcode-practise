@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/mumukshapant/leetcode-practise/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/mumukshapant/leetcode-practise/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mumukshapant/leetcode-practise/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/mumukshapant/leetcode-practise/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -721,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/2121-find-if-path-exists-in-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Breadth-First Search
@@ -755,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mumukshapant/leetcode-practise/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1544-count-good-nodes-in-binary-tree) |
+| [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 | [2121-find-if-path-exists-in-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/2121-find-if-path-exists-in-graph) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union Find
@@ -1050,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1061,6 +1065,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
+| [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/mumukshapant/leetcode-practise/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Interactive
 |  |

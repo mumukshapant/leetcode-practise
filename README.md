@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mumukshapant/leetcode-practise/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/mumukshapant/leetcode-practise/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mumukshapant/leetcode-practise/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/mumukshapant/leetcode-practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/mumukshapant/leetcode-practise/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0189-rotate-array) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/mumukshapant/leetcode-practise/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/mumukshapant/leetcode-practise/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/mumukshapant/leetcode-practise/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/mumukshapant/leetcode-practise/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/mumukshapant/leetcode-practise/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/mumukshapant/leetcode-practise/tree/master/0120-triangle) |
@@ -791,6 +793,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0101-symmetric-tree) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0101-symmetric-tree) |
@@ -865,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0783-search-in-a-binary-search-tree) |

@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0874-backspace-string-compare](https://github.com/mumukshapant/leetcode-practise/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/0908-middle-of-the-linked-list) |
+| [1842-next-palindrome-using-same-digits](https://github.com/mumukshapant/leetcode-practise/tree/master/1842-next-palindrome-using-same-digits) |
 | [1894-merge-strings-alternately](https://github.com/mumukshapant/leetcode-practise/tree/master/1894-merge-strings-alternately) |
 | [2128-reverse-prefix-of-word](https://github.com/mumukshapant/leetcode-practise/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/mumukshapant/leetcode-practise/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1842-next-palindrome-using-same-digits](https://github.com/mumukshapant/leetcode-practise/tree/master/1842-next-palindrome-using-same-digits) |
 | [1894-merge-strings-alternately](https://github.com/mumukshapant/leetcode-practise/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mumukshapant/leetcode-practise/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |

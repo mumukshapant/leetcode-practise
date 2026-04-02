@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mumukshapant/leetcode-practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0415-add-strings) |
 | [0556-next-greater-element-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0556-next-greater-element-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/mumukshapant/leetcode-practise/tree/master/0564-find-the-closest-palindrome) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1013-fibonacci-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1013-fibonacci-number) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0564-find-the-closest-palindrome](https://github.com/mumukshapant/leetcode-practise/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mumukshapant/leetcode-practise/tree/master/0647-palindromic-substrings) |
 | [0812-rotate-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0812-rotate-string) |

@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/mumukshapant/leetcode-practise/tree/master/0792-binary-search) |
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
+| [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0853-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/mumukshapant/leetcode-practise/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0967-minimum-falling-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
@@ -729,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0775-n-ary-tree-preorder-traversal](https://github.com/mumukshapant/leetcode-practise/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mumukshapant/leetcode-practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -763,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
+| [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
@@ -1069,6 +1073,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [2092-find-all-people-with-secret](https://github.com/mumukshapant/leetcode-practise/tree/master/2092-find-all-people-with-secret) |
 ## Graph Theory

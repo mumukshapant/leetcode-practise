@@ -1,28 +1,48 @@
 class Solution(object):
-    def trap(self, nums):
+    def trap(self, height):
         """
         :type height: List[int]
         :rtype: int
         """
-        n=len(nums)
-        l,r=0,n-1
-        leftmax,rightmax=nums[l],nums[r]
-        area=0
+        n = len(height)
+        left=0
+        right= n-1 
 
+        leftmax, rightmax = height[left], height[right]
+        area=0 
 
-        while l<r: 
-            
-            if leftmax>rightmax: 
-                r-=1
-                rightmax= max(nums[r], rightmax)
-                area+=rightmax- nums[r]
-                
+        while left<right: 
+            if leftmax<rightmax: 
+                left+=1 
+                leftmax = max(leftmax, height[left])
+                area += leftmax - height[left]
             else: 
-                l+=1
-                leftmax = max(nums[l], leftmax) 
-                area+=leftmax-nums[l]
-                
-        
+                right-=1
+                rightmax = max(rightmax, height[right])
+                area+= rightmax - height[right]
         return area
-                
 
+                
+            
+
+
+
+
+        # leftmax = [0]*n
+        # rightmax = [0]*n 
+       
+
+        # leftmax[0] = height[0]
+        # rightmax[n-1] = height[n-1]
+
+        # for i in range(1,n): 
+        #     leftmax[i] = max(leftmax[i-1],height[i])
+        # for i in range(n-2, -1, -1): 
+        #     rightmax[i] = max(rightmax[i+1], height[i])
+        # ans=0
+        # res=0
+        # for i in range(n): 
+        #     ans += min(leftmax[i], rightmax[i]) - height[i]
+        # return ans 
+
+        

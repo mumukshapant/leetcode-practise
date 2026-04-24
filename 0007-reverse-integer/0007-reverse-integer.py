@@ -4,24 +4,21 @@ class Solution(object):
         :type x: int
         :rtype: int
         """
-        sign =1 
+        sign = -1 if x<0 else 1 
         rev=0
-
-        if x>0: 
-            sign= 1
-        else: 
-            sign=-1
-
-        x=abs(x)
+        x= abs(x)
 
         while x: 
-            x, mod = divmod(x, 10) # x: quotient, mod = remainder
-            rev= rev*10+ mod
-            
-        if rev> 2**31 -1 : 
-            return 0 
+            rem = x%10 
+            rev = rev*10+rem 
+            x=x/10 
+        rev = sign*rev
 
-        return sign*rev
+        if rev < -2**31 or rev > 2**31 - 1:
+            return 0
+
+        return rev
 
 
-        # The divmod(x, 10) function returns a tuple (quotient, remainder), but you are assigning it directly to x, which leads to incorrect behavior.
+
+        

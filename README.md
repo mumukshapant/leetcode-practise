@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0410-split-array-largest-sum) |
@@ -439,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
 | [0305-number-of-islands-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0305-number-of-islands-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
+| [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/mumukshapant/leetcode-practise/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/mumukshapant/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
@@ -686,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+| [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/mumukshapant/leetcode-practise/tree/master/0359-logger-rate-limiter) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
@@ -893,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/mumukshapant/leetcode-practise/tree/master/0258-add-digits) |
 | [0289-game-of-life](https://github.com/mumukshapant/leetcode-practise/tree/master/0289-game-of-life) |
+| [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0412-fizz-buzz](https://github.com/mumukshapant/leetcode-practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/mumukshapant/leetcode-practise/tree/master/0874-backspace-string-compare) |
@@ -1035,6 +1039,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [1429-first-unique-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1429-first-unique-number) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |

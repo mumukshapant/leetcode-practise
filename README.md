@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/mumukshapant/leetcode-practise/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0240-search-a-2d-matrix-ii) |
 | [0252-meeting-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/mumukshapant/leetcode-practise/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0253-meeting-rooms-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
@@ -639,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/mumukshapant/leetcode-practise/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/mumukshapant/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/mumukshapant/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
@@ -1043,6 +1046,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [1429-first-unique-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1429-first-unique-number) |
@@ -1050,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Data Stream
 |  |

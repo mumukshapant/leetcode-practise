@@ -1,28 +1,29 @@
+import heapq
+
 class Leaderboard(object):
 
     def __init__(self):
-        # Store playerId -> score
         self.scores = {}
 
     def addScore(self, playerId, score):
-        # If player exists, add to their score
         if playerId in self.scores:
             self.scores[playerId] += score
         else:
-            # Otherwise create new player
             self.scores[playerId] = score
 
     def top(self, K):
-        # Get all scores
-        all_scores = self.scores.values()
+        min_heap = []
 
-        # Sort scores in descending order
-        sorted_scores = sorted(all_scores, reverse=True)
+        for score in self.scores.values():
 
-        # Sum top K scores
-        return sum(sorted_scores[:K])
+            if len(min_heap) < K:
+                heapq.heappush(min_heap, score)
+
+            elif score > min_heap[0]:
+                heapq.heapreplace(min_heap, score)
+
+        return sum(min_heap)
 
     def reset(self, playerId):
-        # Remove player from leaderboard
         if playerId in self.scores:
             del self.scores[playerId]

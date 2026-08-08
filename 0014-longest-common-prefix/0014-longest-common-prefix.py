@@ -4,23 +4,27 @@ class Solution(object):
         :type strs: List[str]
         :rtype: str
         """
-        prefix= strs[0] #dog
+        if not strs: 
+            return ""
         
-        plen=len(prefix)
-        
+        minlen = min(len(x) for x in strs) #4 
+        l,h = 1, minlen
 
-        for i in range (1, len(strs)): 
-            curr= strs[i] #racecar
-            while prefix[:plen] != curr[:plen] or plen> len(curr)  : 
-                plen -= 1
-                if plen==0 : 
-                    return ""
-            prefix= prefix[:plen]
-            #print(prefix)
+        while l<=h: 
+            mid = h+(l-h)//2
+            
+            if self.iscommonprefix(strs, mid): 
+                l=mid+1
+            else: 
+                h = mid-1
+        return strs[0][:(l+h)//2]
+    
+    def iscommonprefix(self, strs, l):
+        str1 = strs[0][:l]
 
-        return prefix  
-                
+        for i in range(1,len(strs)): 
+            if not strs[i].startswith(str1):
+                return False
+        return True 
 
 
-
-        

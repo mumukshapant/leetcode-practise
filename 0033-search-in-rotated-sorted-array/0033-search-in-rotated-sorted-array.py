@@ -1,31 +1,25 @@
 class Solution(object):
     def search(self, nums, t):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        low=0
-        high = len(nums)-1
-        mid=0
+        lo, hi = 0, len(nums) - 1
 
-        while low<=high : 
-            mid=low+(high-low)/2
-            print(mid)
-            if nums[mid]==t: 
-                return mid 
+        while lo <= hi:
+            mid = lo + (hi - lo) // 2
 
-            elif nums[low]<=nums[mid]: 
-                if t>=nums[low] and t<nums[mid]: 
-                    high = mid-1
-                else: 
-                    low = mid+1 
+            if nums[mid] == t:
+                return mid
 
+            # Left half is sorted
+            if nums[lo] <= nums[mid]:
+                if nums[lo] <= t < nums[mid]:
+                    hi = mid - 1
+                else:
+                    lo = mid + 1
+
+            # Right half is sorted
             else:
-                if t>nums[mid] and t<=nums[high]: 
-                    low=mid+1
-                else: 
-                    high = mid-1 
-         
+                if nums[mid] < t <= nums[hi]:
+                    lo = mid + 1
+                else:
+                    hi = mid - 1
 
-        return -1 
+        return -1

@@ -4,7 +4,7 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-
+        # EXPAND AROUND CENTRE 
         n = len(s)
         start = 0
         max_len = 0
@@ -33,39 +33,3 @@ class Solution(object):
                 r += 1
 
         return s[start:start + max_len]
-
-
-
-
-
-
-
-
-        # l,r =0 , 0 
-        # n = len(s)
-        # res=[]
-
-        # for i in range (n): 
-        #     l=i
-        #     r=i+1
-
-        #     while l>=0 and r<n and s[l]==s[r]:
-
-        #         if len(s[l:r+1]) > len(res):
-        #             res = s[l:r+1] # slicing is very expensive , because it is creating a new string everytime. 
-        #         l-=1
-        #         r+=1
-            
-
-        #     l=i
-        #     r=i
-        #     while l>=0 and r<n and s[l]==s[r]: 
-        #         if len(s[l:r+1])> len(res): 
-        #             res = s[l:r+1]
-        #         l-=1
-        #         r+=1
-        # return res
-
-
-        
-        

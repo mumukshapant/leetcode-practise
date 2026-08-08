@@ -4,11 +4,17 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        if x<0 or ( x%10==0 and x!=0 ) : 
+        if x<0 : 
             return False
-        rev=0 
-        while x> rev: 
-            rem = x%10 
-            rev = rev*10 + rem 
-            x=x/10 
-        return x==rev or x== rev/10 
+        num=x
+        rev=0
+
+       
+
+        while num>0 : 
+            rem = num%10 #1 
+            rev=rev*10+rem 
+            num=num//10 # 12
+
+        return rev==x
+

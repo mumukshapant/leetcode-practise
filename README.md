@@ -1127,4 +1127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/mumukshapant/leetcode-practise/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

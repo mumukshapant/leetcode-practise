@@ -1,27 +1,26 @@
 class Solution(object):
-    def merge(self, nums):
+    def merge(self, intervals):
         """
         :type intervals: List[List[int]]
         :rtype: List[List[int]]
         """
+        intervals.sort(key=lambda x:x[0]) # n*log n 
 
-        nums.sort(key=lambda x: x[0]) # O(n log n )
-        prev = nums[0] # 1,3 
-        res=[] 
-       
-        for i in range(1,len(nums)): 
-            curr = nums[i] #2,6
-
-            if prev[1]>=curr[0]: 
-                # merge 
-                prev[1]= max(curr[1], prev[1]) # 1,6
+        curr=intervals[0]
+        res=[]
+        
+        for i in range(1,len(intervals)): 
+            
+            if curr[1]>=intervals[i][0] : 
+                #merge 
+                curr[1]=max(curr[1],intervals[i][1]) # 1,6
+                
             else: 
-                res.append(prev)
-                prev= curr
-        res.append(prev)
+                res.append(curr)
+                curr= intervals[i]
+        res.append(curr)
         return res
 
-                
-        
+
 
         

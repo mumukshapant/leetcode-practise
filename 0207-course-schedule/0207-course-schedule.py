@@ -5,33 +5,31 @@ class Solution(object):
         :type prerequisites: List[List[int]]
         :rtype: bool
         """
-        adj = defaultdict(list)
-
-        for c,p in prerequisites: 
-            adj[c].append(p)
         
-        visited = [False]*n
+        adj =defaultdict(list)
+        for course, pre in prerequisites: 
+            adj[course].append(pre)
+        
+        visited=set()
 
         def dfs(course): 
             if adj[course]==[] : # no prerequisite
                 return True 
-            
             if course in visited : 
-                return False 
-            
-            visited.append(course)
+                return False
 
-            for pre in adj[course]:
-                if not dfs(pre ) :
-                    return False     
-        
-            visited[course]= False 
-            adj[course]= []
+            visited.add(course)
+
+            for p in adj[course]: 
+                if not dfs(p) : 
+                    return False 
+                
+            visited.remove(course)
+            adj[course]=[]
             return True 
-
-        for c in range(n): 
-            if not dfs(c):
-                return False 
+        
+        for c in range(n) : 
+            if not dfs(c): 
+                return False
         return True 
 
-        

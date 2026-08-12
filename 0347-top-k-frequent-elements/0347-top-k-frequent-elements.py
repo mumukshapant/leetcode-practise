@@ -5,26 +5,21 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        
-    
         n= len(nums)
-        bucket = [[] for _ in range(n+1)]
-        
-        map = Counter(nums)
+        buckets = [[] for _ in range(n+1)]
 
-        for el, freq in map.items(): 
-            bucket[freq].append(el)
-        
-        
-        res=[]
+        freq= Counter(nums)
 
-        for b in bucket[::-1]  :
-            for num in b: 
+        for el,fr in freq.items(): 
+            buckets[fr].append(el)
+        
+        res=[] 
+
+        for b in buckets[::-1]: 
+            for num in b : 
                 res.append(num)
                 k-=1
 
-                if k==0 : 
-                    return res
-
-    # Time :  O(n) Counter + O(n) iterating all elements 
-    # Space : O(n) Counter +O(n) res
+                if k==0: 
+                    return res 
+        

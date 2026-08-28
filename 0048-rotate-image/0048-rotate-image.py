@@ -13,4 +13,3 @@ class Solution(object):
     
         for row in mat: 
             row.reverse()
-        

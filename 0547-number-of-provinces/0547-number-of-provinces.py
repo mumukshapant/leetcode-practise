@@ -4,26 +4,32 @@ class Solution(object):
         :type isConnected: List[List[int]]
         :rtype: int
         """
-        n = len(isConnected)
 
-        visited = [False]*n
-        count=0
+        n = len(isConnected)
+          
+        # adj = defaultdict(list)
+        # for i in range(n):
+        #     for j in range(n): 
+        #         if  isConnected[i][j]==1: 
+        #             adj[i].append(j)
+        count= 0
+        vis=set()
 
         def dfs(node): 
-            visited[node] = True 
 
-            for nei in range(n): 
-                if visited[nei]==False and isConnected[node][nei]: 
-                    dfs(nei)
+            vis.add(node)
+            # for nei in adj[node]: 
+            for i in range(n):
+                if isConnected[node][i] == 1 and i not in vis:
+                    dfs(i)
             
-        
-
         for i in range(n): 
-            if not visited[i]: 
-                dfs(i)
+            if i not in vis: 
                 count+=1
-        return count
-    
-    # Space = O(n) 
-    # Time : O(n2)
-            
+                dfs(i)
+
+        return count 
+
+
+
+        

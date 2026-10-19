@@ -27,7 +27,9 @@ class Solution(object):
 
             #clone all nei 
             for nei in curr.neighbors: 
-                clone.neighbors.append(dfs(nei))
+                nei_of_clone = dfs(nei)# Get the cloned neighbor
+                clone.neighbors.append(nei_of_clone)#Connect it to the curr clone
+
             return clone 
 
         

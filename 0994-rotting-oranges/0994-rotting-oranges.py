@@ -1,40 +1,40 @@
 class Solution(object):
-    def orangesRotting(self, grid):
+    def orangesRotting(self, g):
         """
         :type grid: List[List[int]]
         :rtype: int
         """
-        m,n = len(grid), len(grid[0])
+        m,n = len(g), len(g[0])
         q=deque() 
-        fresh=0
-        time=0
+        fresh=0 
 
-        directions= [[1,0],[-1,0],[0,1],[0,-1]]
+        #0- empty 
+        #1- fresh 
+        #2- rotten 
 
-        for i in range(m):
-            for j in range(n):
-                if grid[i][j] ==2: # rotten 
-                    q.append((i,j))
-                elif grid[i][j]==1: #fresh 
-                    fresh+=1 
-                
-        if fresh==0 : 
-            return 0 
-                    
-        while q and fresh>0 :
-            for _ in range(len(q)): 
-                
-                r,c = q.popleft()
+        for i in range(m): 
+            for j in range(n): 
+                if g[i][j]==2: 
+                    q.append([i,j])
+                elif g[i][j]==1:
+                    fresh+=1
+        t=0
 
-                for dr , dc in directions: 
-                    newrow, newcol = r+dr, c+dc 
-                    if newrow>=m or newcol>=n or newrow < 0 or newcol<0 or grid[newrow][newcol]!=1 : 
-                        continue 
-                    
-                    grid[newrow][newcol]= 2 # mark rotten 
-                    q.append((newrow, newcol))
+        directions=[[1,0],[0,1],[-1,0],[0,-1]]
+        while q and fresh>0 : 
+            t+=1
+            for _ in range(len(q)):
+                 
+                r,c= q.popleft()
+                for dr,dc in directions: 
+                    newrow, newcol = r+dr, c+dc
 
-                    fresh-=1
-            time+=1
-        return time if fresh==0 else -1
+                    if 0<=newrow<m and 0<=newcol<n and g[newrow][newcol]==1:
+                        q.append([newrow, newcol])
+                        g[newrow][newcol]=2
+                        fresh-=1
+        return -1 if fresh>0 else t
+
+
+
             

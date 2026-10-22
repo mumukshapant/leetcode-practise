@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0875-koko-eating-bananas) |
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/mumukshapant/leetcode-practise/tree/master/0907-koko-eating-bananas) |
+| [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
 | [0967-minimum-falling-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0967-minimum-falling-path-sum) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
+| [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
 | [0967-minimum-falling-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0967-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
@@ -765,6 +767,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0904-leaf-similar-trees) |
+| [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/mumukshapant/leetcode-practise/tree/master/1376-time-needed-to-inform-all-employees) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0841-keys-and-rooms) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
+| [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |

@@ -12,27 +12,24 @@ class Solution(object):
         :type node: Node
         :rtype: Node
         """
-        st=[] 
         if not node: 
-            return None
+            return None 
         
         vis={}
-
-        def dfs(curr): 
-            if curr in vis : 
-                return vis[curr]
-            
-            clone = Node(curr.val)
-            vis[curr]=clone
-
-            #clone all nei 
-            for nei in curr.neighbors: 
-                nei_of_clone = dfs(nei)# Get the cloned neighbor
-                clone.neighbors.append(nei_of_clone)#Connect it to the curr clone
-
-            return clone 
-
         
+        def dfs(node): 
+            if node in vis:
+                return vis[node]
+                
+            new_clone = Node(node.val)
+            vis[node] = new_clone
+
+            for nei in node.neighbors:
+                new_clone.neighbors.append(dfs(nei))
+            
+            return new_clone
         return dfs(node)
+
+
 
         

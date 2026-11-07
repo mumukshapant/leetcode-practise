@@ -4,20 +4,14 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        myset = set() 
-        i,j=0,0 
-        maxlen=0 
-        while j<len(s): 
-            if s[j] in myset: 
-                myset.remove(s[i])
-                i+=1
-            else: 
-
-                myset.add(s[j])
-                maxlen= max(j-i+1, maxlen)
-                j+=1
-            
+        l,r=0,0
+        myset=set()
+        maxlen=0
+        for r in range(len(s)): 
+            while s[r] in myset:
+                myset.remove(s[l])
+                l+=1
+            myset.add(s[r])
+            maxlen =max(r-l+1, maxlen)
         return maxlen
 
-
-        

@@ -4,14 +4,13 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        l,r=0,0
-        myset=set()
-        maxlen=0
-        for r in range(len(s)): 
-            while s[r] in myset:
-                myset.remove(s[l])
-                l+=1
-            myset.add(s[r])
-            maxlen =max(r-l+1, maxlen)
+        # MP 
+        lastseen={}
+        st, maxlen=0,0
+        for end, ch in enumerate(s): 
+            if ch in lastseen and lastseen[ch]>=st: 
+                st= lastseen[ch]+1
+            
+            lastseen[ch]=end
+            maxlen= max(maxlen, end-st+1)
         return maxlen
-

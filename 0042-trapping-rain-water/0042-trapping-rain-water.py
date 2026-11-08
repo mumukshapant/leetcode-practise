@@ -4,19 +4,18 @@ class Solution(object):
         :type height: List[int]
         :rtype: int
         """
-        n = len(nums)
-        left=0
-        right= n-1 
-        leftmax,rightmax=nums[0], nums[n-1]
-        area=0 
+        n=len(nums)
+        l,r, lmax, rmax=0,n-1, nums[0], nums[n-1]
 
-        while left<right: 
-            if leftmax<rightmax: 
-                left+=1
-                leftmax = max(nums[left], leftmax)
-                area += leftmax - nums[left]
+        area=0
+        while l<r: 
+            if lmax<rmax: 
+                l+=1
+                lmax=max(nums[l], lmax)
+                area+=lmax-nums[l]
             else: 
-                right-=1
-                rightmax = max(nums[right], rightmax)
-                area += rightmax - nums[right]
+                r-=1
+                rmax=max(rmax, nums[r])
+                area+=rmax-nums[r]
+        
         return area 

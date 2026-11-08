@@ -5,20 +5,13 @@ class Solution(object):
         :type k: int
         :rtype: int
         """
-        pq=[]
-        if len(nums)==1 : 
-            return nums[0]
-
-        for i in range(k): 
-            heapq.heappush(pq,nums[i])
+        pq=[] 
+        for n in nums: 
+            heapq.heappush(pq,(-n)) #maxheap
         
-        print(pq)
+        for i in range(k-1): 
+            heapq.heappop(pq)
         
-        for i in range(k, len(nums)): 
-            element = pq[0]
-            if nums[i] > element : 
-                heapq.heappop(pq) 
-                heapq.heappush(pq,nums[i])
         
-        return pq[0]
-
+        return (-heapq.heappop(pq))
+        

@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
 | [1036-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/mumukshapant/leetcode-practise/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1094-car-pooling](https://github.com/mumukshapant/leetcode-practise/tree/master/1094-car-pooling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1127-last-stone-weight](https://github.com/mumukshapant/leetcode-practise/tree/master/1127-last-stone-weight) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/mumukshapant/leetcode-practise/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/mumukshapant/leetcode-practise/tree/master/1094-car-pooling) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
@@ -542,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0948-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/0973-k-closest-points-to-origin) |
 | [1014-k-closest-points-to-origin](https://github.com/mumukshapant/leetcode-practise/tree/master/1014-k-closest-points-to-origin) |
+| [1094-car-pooling](https://github.com/mumukshapant/leetcode-practise/tree/master/1094-car-pooling) |
 | [1127-last-stone-weight](https://github.com/mumukshapant/leetcode-practise/tree/master/1127-last-stone-weight) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mumukshapant/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/mumukshapant/leetcode-practise/tree/master/0724-find-pivot-index) |
+| [1094-car-pooling](https://github.com/mumukshapant/leetcode-practise/tree/master/1094-car-pooling) |
 ## Sliding Window
 |  |
 | ------- |
@@ -945,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/mumukshapant/leetcode-practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0415-add-strings) |
 | [0874-backspace-string-compare](https://github.com/mumukshapant/leetcode-practise/tree/master/0874-backspace-string-compare) |
+| [1094-car-pooling](https://github.com/mumukshapant/leetcode-practise/tree/master/1094-car-pooling) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/mumukshapant/leetcode-practise/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/mumukshapant/leetcode-practise/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/mumukshapant/leetcode-practise/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |

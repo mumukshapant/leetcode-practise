@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0290-word-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0392-is-subsequence) |
@@ -719,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/mumukshapant/leetcode-practise/tree/master/0146-lru-cache) |
 | [0271-encode-and-decode-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0346-moving-average-from-data-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0346-moving-average-from-data-stream) |
 | [0353-design-snake-game](https://github.com/mumukshapant/leetcode-practise/tree/master/0353-design-snake-game) |
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
@@ -758,6 +760,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
@@ -802,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0226-invert-binary-tree) |
 | [0269-alien-dictionary](https://github.com/mumukshapant/leetcode-practise/tree/master/0269-alien-dictionary) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/mumukshapant/leetcode-practise/tree/master/0322-coin-change) |
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -854,6 +858,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -881,6 +886,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/mumukshapant/leetcode-practise/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0337-house-robber-iii) |
 | [0437-path-sum-iii](https://github.com/mumukshapant/leetcode-practise/tree/master/0437-path-sum-iii) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |

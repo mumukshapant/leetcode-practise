@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
 | [0817-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0817-design-hashmap) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0981-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/0981-time-based-key-value-store) |
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
 | [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
@@ -782,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/mumukshapant/leetcode-practise/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0904-leaf-similar-trees) |
 | [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
@@ -825,6 +827,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
 | [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0841-keys-and-rooms) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0871-keys-and-rooms](https://github.com/mumukshapant/leetcode-practise/tree/master/0871-keys-and-rooms) |
 | [0934-shortest-bridge](https://github.com/mumukshapant/leetcode-practise/tree/master/0934-shortest-bridge) |
 | [0994-rotting-oranges](https://github.com/mumukshapant/leetcode-practise/tree/master/0994-rotting-oranges) |
@@ -871,6 +874,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/mumukshapant/leetcode-practise/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1376-time-needed-to-inform-all-employees](https://github.com/mumukshapant/leetcode-practise/tree/master/1376-time-needed-to-inform-all-employees) |
@@ -899,6 +903,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/mumukshapant/leetcode-practise/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |

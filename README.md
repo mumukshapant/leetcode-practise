@@ -479,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2034-stock-price-fluctuation](https://github.com/mumukshapant/leetcode-practise/tree/master/2034-stock-price-fluctuation) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mumukshapant/leetcode-practise/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/mumukshapant/leetcode-practise/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1851-minimum-interval-to-include-each-query](https://github.com/mumukshapant/leetcode-practise/tree/master/1851-minimum-interval-to-include-each-query) |
+| [2034-stock-price-fluctuation](https://github.com/mumukshapant/leetcode-practise/tree/master/2034-stock-price-fluctuation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/mumukshapant/leetcode-practise/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/mumukshapant/leetcode-practise/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mumukshapant/leetcode-practise/tree/master/2413-smallest-number-in-infinite-set) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1023-time-based-key-value-store](https://github.com/mumukshapant/leetcode-practise/tree/master/1023-time-based-key-value-store) |
 | [1244-design-a-leaderboard](https://github.com/mumukshapant/leetcode-practise/tree/master/1244-design-a-leaderboard) |
 | [1429-first-unique-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1429-first-unique-number) |
+| [2034-stock-price-fluctuation](https://github.com/mumukshapant/leetcode-practise/tree/master/2034-stock-price-fluctuation) |
 | [2413-smallest-number-in-infinite-set](https://github.com/mumukshapant/leetcode-practise/tree/master/2413-smallest-number-in-infinite-set) |
 ## Hash Function
 |  |
@@ -1030,6 +1033,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/mumukshapant/leetcode-practise/tree/master/0493-reverse-pairs) |
 | [1533-display-table-of-food-orders-in-a-restaurant](https://github.com/mumukshapant/leetcode-practise/tree/master/1533-display-table-of-food-orders-in-a-restaurant) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/mumukshapant/leetcode-practise/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [2034-stock-price-fluctuation](https://github.com/mumukshapant/leetcode-practise/tree/master/2034-stock-price-fluctuation) |
 ## Recursion
 |  |
 | ------- |
@@ -1129,6 +1133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0362-design-hit-counter](https://github.com/mumukshapant/leetcode-practise/tree/master/0362-design-hit-counter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/mumukshapant/leetcode-practise/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1429-first-unique-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1429-first-unique-number) |
+| [2034-stock-price-fluctuation](https://github.com/mumukshapant/leetcode-practise/tree/master/2034-stock-price-fluctuation) |
 ## Topological Sort
 |  |
 | ------- |

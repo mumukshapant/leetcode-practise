@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/mumukshapant/leetcode-practise/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mumukshapant/leetcode-practise/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/mumukshapant/leetcode-practise/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/mumukshapant/leetcode-practise/tree/master/0424-longest-repeating-character-replacement) |
@@ -1017,6 +1018,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/mumukshapant/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0394-decode-string) |
 | [0456-132-pattern](https://github.com/mumukshapant/leetcode-practise/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/mumukshapant/leetcode-practise/tree/master/0739-daily-temperatures) |
@@ -1051,6 +1053,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/mumukshapant/leetcode-practise/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/mumukshapant/leetcode-practise/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/mumukshapant/leetcode-practise/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/mumukshapant/leetcode-practise/tree/master/2050-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/mumukshapant/leetcode-practise/tree/master/2573-remove-nodes-from-linked-list) |

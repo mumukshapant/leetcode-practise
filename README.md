@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mumukshapant/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/mumukshapant/leetcode-practise/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mumukshapant/leetcode-practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0853-car-fleet) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/mumukshapant/leetcode-practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0706-design-hashmap) |
 | [0740-delete-and-earn](https://github.com/mumukshapant/leetcode-practise/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
@@ -497,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mumukshapant/leetcode-practise/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/mumukshapant/leetcode-practise/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -539,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/mumukshapant/leetcode-practise/tree/master/0355-design-twitter) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mumukshapant/leetcode-practise/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/mumukshapant/leetcode-practise/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
@@ -923,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/mumukshapant/leetcode-practise/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mumukshapant/leetcode-practise/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0946-smallest-range-ii](https://github.com/mumukshapant/leetcode-practise/tree/master/0946-smallest-range-ii) |
 | [2032-largest-odd-number-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/2032-largest-odd-number-in-string) |

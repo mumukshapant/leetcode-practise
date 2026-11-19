@@ -1248,4 +1248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/mumukshapant/leetcode-practise/tree/master/0124-binary-tree-maximum-path-sum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/mumukshapant/leetcode-practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

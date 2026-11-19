@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0724-find-pivot-index](https://github.com/mumukshapant/leetcode-practise/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/mumukshapant/leetcode-practise/tree/master/0739-daily-temperatures) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/mumukshapant/leetcode-practise/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/mumukshapant/leetcode-practise/tree/master/0658-find-k-closest-elements) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0853-car-fleet) |
 | [0883-car-fleet](https://github.com/mumukshapant/leetcode-practise/tree/master/0883-car-fleet) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0564-find-the-closest-palindrome](https://github.com/mumukshapant/leetcode-practise/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/mumukshapant/leetcode-practise/tree/master/0647-palindromic-substrings) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0812-rotate-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/mumukshapant/leetcode-practise/tree/master/0874-backspace-string-compare) |
@@ -471,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/mumukshapant/leetcode-practise/tree/master/0621-task-scheduler) |
 | [0706-design-hashmap](https://github.com/mumukshapant/leetcode-practise/tree/master/0706-design-hashmap) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0740-delete-and-earn](https://github.com/mumukshapant/leetcode-practise/tree/master/0740-delete-and-earn) |
 | [0767-reorganize-string](https://github.com/mumukshapant/leetcode-practise/tree/master/0767-reorganize-string) |
 | [0815-bus-routes](https://github.com/mumukshapant/leetcode-practise/tree/master/0815-bus-routes) |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/mumukshapant/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
@@ -829,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/mumukshapant/leetcode-practise/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/mumukshapant/leetcode-practise/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/mumukshapant/leetcode-practise/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0743-network-delay-time) |
 | [0744-network-delay-time](https://github.com/mumukshapant/leetcode-practise/tree/master/0744-network-delay-time) |
@@ -1173,6 +1179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0323-number-of-connected-components-in-an-undirected-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/0323-number-of-connected-components-in-an-undirected-graph) |
 | [0547-number-of-provinces](https://github.com/mumukshapant/leetcode-practise/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/mumukshapant/leetcode-practise/tree/master/0721-accounts-merge) |
 | [0827-making-a-large-island](https://github.com/mumukshapant/leetcode-practise/tree/master/0827-making-a-large-island) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/mumukshapant/leetcode-practise/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1971-find-if-path-exists-in-graph](https://github.com/mumukshapant/leetcode-practise/tree/master/1971-find-if-path-exists-in-graph) |
